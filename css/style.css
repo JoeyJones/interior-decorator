@@ -1,0 +1,41 @@
+
+ 
+.flashy-a h1,.flashy-b h1,.flashy-c h1
+{
+  background-color:rgba(238, 101, 59, 0.911);
+  margin:0px;
+  width:445px;
+  text-align: center;        
+}
+.flashy-a p,.flashy-b p,.flashy-c p
+{
+  background-color:rgba(163, 247, 7, 0.548);
+  
+  width:425px;
+  padding:10px;
+  margin:0px;
+  text-align: justify;
+  font-style: italic;
+}
+div.flashy-a,div.flashy-b,div.flashy-c
+{
+  width:445px;
+  box-shadow: 5px 5px 5px black;
+  padding: 5px 10px;
+  margin-right: 10px;
+  background-color: white;
+}
+div#container-1{
+  width: 15%;
+  margin: auto;
+  margin-top: 0%;
+}
+
+body {
+ background-color: burlywood;
+
+
+}
+
+
+
